@@ -1,0 +1,3 @@
+#define SECRET_SSID "KANAILA_HOME"
+#define SECRET_OPTIONAL_PASS "qwerty7475"
+#define SECRET_DEVICE_KEY "ZjTgwMqw7gS6?8s0PTiGnml0H"
